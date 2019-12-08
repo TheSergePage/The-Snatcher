@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SnatcherGUI": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherGUI\obj\Release\netcoreapp3.0\SnatcherGUI.csprojAssemblyReference.cache
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherGUI\obj\Release\netcoreapp3.0\SnatcherGUI.AssemblyInfoInputs.cache
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherGUI\obj\Release\netcoreapp3.0\SnatcherGUI.AssemblyInfo.cs
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherGUI\bin\Release\netcoreapp3.0\SnatcherGUI.exe
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherGUI\bin\Release\netcoreapp3.0\SnatcherGUI.deps.json
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherGUI\bin\Release\netcoreapp3.0\SnatcherGUI.runtimeconfig.json
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherGUI\bin\Release\netcoreapp3.0\SnatcherGUI.runtimeconfig.dev.json
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherGUI\bin\Release\netcoreapp3.0\SnatcherGUI.dll
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherGUI\bin\Release\netcoreapp3.0\AngleSharp.dll
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherGUI\bin\Release\netcoreapp3.0\MoonSharp.Interpreter.dll
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherGUI\bin\Release\netcoreapp3.0\SnatcherCore.dll
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherGUI\obj\Release\netcoreapp3.0\SnatcherGUI.csproj.CopyComplete
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherGUI\obj\Release\netcoreapp3.0\SnatcherGUI.dll

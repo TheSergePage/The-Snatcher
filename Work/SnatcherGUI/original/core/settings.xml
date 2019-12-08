@@ -1,0 +1,16 @@
+<settings>
+  <!-- Style -->
+
+  <property id="pDefaultWindowSize_Width" value="720"></property>
+  <property id="pDefaultWindowSize_Height" value="320"></property>
+
+  <!-- Parse -->
+
+  <property id="pPagesParse_Types" value="Все страницы|До ...|От ... До ..."></property>
+  <property id="pPagesParse_Masks" value="До ###|От ### До ###"></property>
+  <property id="pPagesParse_DisablesMask" value="0"></property>
+
+  <!-- Export -->
+
+  <property id="pExportFormats" value="CSV"></property>
+</settings>

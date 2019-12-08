@@ -1,0 +1,17 @@
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherCore\obj\Release\netcoreapp3.0\SnatcherCore.csprojAssemblyReference.cache
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherCore\obj\Release\netcoreapp3.0\SnatcherCore.Documentation.resources
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherCore\obj\Release\netcoreapp3.0\SnatcherCore.csproj.GenerateResource.cache
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherCore\obj\Release\netcoreapp3.0\SnatcherCore.AssemblyInfoInputs.cache
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherCore\obj\Release\netcoreapp3.0\SnatcherCore.AssemblyInfo.cs
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherCore\obj\Release\netcoreapp3.0\SnatcherCore.dll
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherCore\bin\Release\netcoreapp3.0\SnatcherCore.deps.json
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherCore\bin\Release\netcoreapp3.0\SnatcherCore.dll
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherCore\bin\Release\netcoreapp3.0\System.Windows.Forms.dll
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherCore\bin\Release\netcoreapp3.0\Accessibility.dll
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherCore\bin\Release\netcoreapp3.0\System.Deployment.dll
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherCore\bin\Release\netcoreapp3.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherCore\bin\Release\netcoreapp3.0\System.Windows.Forms.xml
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherCore\bin\Release\netcoreapp3.0\Accessibility.xml
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherCore\bin\Release\netcoreapp3.0\System.Deployment.xml
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherCore\bin\Release\netcoreapp3.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\serge\Documents\Projects\Snatcher\Work\SnatcherCore\obj\Release\netcoreapp3.0\SnatcherCore.csproj.CopyComplete
