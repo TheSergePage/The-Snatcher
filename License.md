@@ -1,4 +1,4 @@
-<!--© 2019, Dark Orb.
+© 2019, Dark Orb.
 
 
 This license is hereby grants to any person who obtained a copy of this software the next rights to:
@@ -23,22 +23,4 @@ This license is deny to:
 - Create own derivative software
 
 
-The product is an original source codes and original compiled files which made by the original author and provided only under the grants and restrictions of this license.-->
-
-
-<settings>
-  <!-- Style -->
-
-  <property id="pDefaultWindowSize_Width" value="720"></property>
-  <property id="pDefaultWindowSize_Height" value="320"></property>
-
-  <!-- Parse -->
-
-  <property id="pPagesParse_Types" value="Все страницы|До ...|От ... До ..."></property>
-  <property id="pPagesParse_Masks" value="До ###|От ### До ###"></property>
-  <property id="pPagesParse_DisablesMask" value="0"></property>
-
-  <!-- Export -->
-
-  <property id="pExportFormats" value="CSV"></property>
-</settings>
+The product is an original source codes and original compiled files which made by the original author and provided only under the grants and restrictions of this license.
